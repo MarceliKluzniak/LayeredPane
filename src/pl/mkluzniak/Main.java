@@ -41,7 +41,7 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(new Dimension(500, 500));
         frame.setLayout(null);
-        frame.setVisible(true);
+        frame.setVisible(true); //set frame to be visible
 
 
     }
